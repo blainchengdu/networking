@@ -6,5 +6,7 @@ Update the list below with your business card. Keep it alphabetical please. Than
 ###Matt Ramina
 
 OSS nerd, freelance dev @ DuckDuckGo, Inc.
+
 @mattr555 (twitter, github)
+
 http://mattr555.me
